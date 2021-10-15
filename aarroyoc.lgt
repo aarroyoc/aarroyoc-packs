@@ -7,7 +7,7 @@
         comment is 'Pack registry for aarroyoc Prolog and Logtalk libraries.'
     ]).
 
-    name('aarroyoc').
+    name('aarroyoc-packs').
 
     description('Pack registry for aarroyoc Prolog and Logtalk libraries.').
 
