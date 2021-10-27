@@ -7,7 +7,7 @@ To add this pack registry, start Logtalk with your favorite Prolog backend and t
 ?- {packs(loader)}.
 ...
 
-?- registries::add('aarroyoc-packs', 'https://github.com/aarroyoc/aarroyoc-packs.git').
+?- registries::add('https://github.com/aarroyoc/aarroyoc-packs.git').
 ...
 
 ?- packs::available.
