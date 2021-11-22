@@ -1,9 +1,9 @@
 :- object(aarroyoc_registry, implements(registry_protocol)).
 
     :- info([
-        version is 1:0:0,
+        version is 1:0:1,
         author is 'Adrian Arroyo Calle',
-        date is 2021-10-15,
+        date is 2021-11-22,
         comment is 'Pack registry for aarroyoc Prolog and Logtalk libraries.'
     ]).
 
